@@ -179,12 +179,7 @@ I enjoy working across the stack — from FastAPI backends and LLM integrations 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshjainnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E7DFF&icon_color=2E7DFF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=harshjainnn&theme=tokyonight&hide_border=true&background=0D1117&ring=2E7DFF&fire=00C9A7&currStreakLabel=2E7DFF" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjainnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E7DFF" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=harshjainnn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" />
 </p>
 
@@ -226,9 +221,6 @@ B.Tech in Computer Science — CGPA 8.57/10.0 (Sept 2022 – Present)
   </a>
   <a href="mailto:hjain4815@gmail.com">
     <img src="https://img.shields.io/badge/hjain4815%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:8851284691">
-    <img src="https://img.shields.io/badge/Phone-8851284691-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
